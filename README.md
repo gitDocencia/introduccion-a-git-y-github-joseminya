@@ -91,7 +91,7 @@ Importante:
 
 ** Push
 
-**Commit
+** Commit
 
 * Repositorios:
 
