@@ -83,6 +83,10 @@ The GitHub flow is a lightweight workflow that allows you to experiment with new
 
 Importante:
 *Conceptos.
++Pull 
++Fetch
++Push
++Commit
 *Repositorios.
 *Herramientas.
 *Caso de uso.
