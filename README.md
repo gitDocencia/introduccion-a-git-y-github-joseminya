@@ -83,7 +83,17 @@ The GitHub flow is a lightweight workflow that allows you to experiment with new
 
 Importante:
 
-* Conceptos.
+* Conceptos:
+
+** Pull 
+
+** Fetch
+
+** Push
+
+**Commit
+
+* Repositorios:
 
 * Repositorios.
 
@@ -94,7 +104,6 @@ Importante:
 * Herramientas.
 
 * Caso de uso.
-
 
 
 You can use branches on GitHub to isolate work that you do not want merged into your final project. Branches allow you to develop features, fix bugs, or safely experiment with new ideas in a contained area of your repository. You always create a branch from an existing branch. Typically, you might create a new branch from the default branch of your repository—`main`. 
