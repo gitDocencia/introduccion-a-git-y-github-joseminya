@@ -97,9 +97,9 @@ Importante:
 
 * Repositorios.
 
-**GitHub
+** GitHub
 
-**GitLab
+** GitLab
 
 * Herramientas.
 
