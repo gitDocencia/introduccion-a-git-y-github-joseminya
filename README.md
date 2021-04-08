@@ -104,6 +104,10 @@ Importante:
   * GitDesktop
   
   * GitKraken
+  
+  * Markdown monster
+  
+  * Typora
 
 * Caso de uso:
 
