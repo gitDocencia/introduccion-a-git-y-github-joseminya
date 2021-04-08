@@ -115,7 +115,7 @@ Importante:
   
   * Compartir co-autoría código
   
-  ![code example](code_example.png)
+  * ![code example](code_example.png)
   
   * **Ejemplo revisión**
 
