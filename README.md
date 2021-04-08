@@ -85,21 +85,21 @@ Importante:
 
 * Conceptos:
 
-** Pull 
+  * Pull 
 
-** Fetch
+  * Fetch
 
-** Push
+  * Push
 
-** Commit
+  * Commit
 
 * Repositorios:
 
 * Repositorios.
 
-** GitHub
+  * GitHub
 
-** GitLab
+  * GitLab
 
 * Herramientas.
 
