@@ -85,25 +85,23 @@ Importante:
 
 * Conceptos:
 
-  * Pull 
+  ** Pull 
 
-  * Fetch
+  ** Fetch
 
-  * Push
+  ** Push
 
-  * Commit
+  ** Commit
 
 * Repositorios:
 
-* Repositorios.
+  ** GitHub
 
-  * GitHub
+  ** GitLab
 
-  * GitLab
+* Herramientas:
 
-* Herramientas.
-
-* Caso de uso.
+* Caso de uso:
 
 
 You can use branches on GitHub to isolate work that you do not want merged into your final project. Branches allow you to develop features, fix bugs, or safely experiment with new ideas in a contained area of your repository. You always create a branch from an existing branch. Typically, you might create a new branch from the default branch of your repository—`main`. 
